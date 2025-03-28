@@ -6,6 +6,16 @@ How to create an SSL certificate for create-react-app
 npx create-react-app name-of-the-folder
 ```
 
+## Install mkcert
+To install mkcert on Windows using Chocolatey (a package manager for Windows), you can run the following command in your command line:
+```bash
+choco install mkcert
+```
+To install the local CA (Certificate Authority), run:
+```bash
+mkcert -install
+```
+
 ## How to create a certificate
 ```bash
 //create a certficate folder
