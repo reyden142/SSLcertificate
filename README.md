@@ -1,4 +1,4 @@
-# SSLcertificate
+# SSL Certificate
 How to create an SSL certificate for create-react-app 
 
 ## React Environment
