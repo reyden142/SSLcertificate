@@ -10,6 +10,7 @@ When a website has an SSL certificate, its URL starts with **"https://"** instea
 ```bash
 npx create-react-app name-of-the-folder
 ```
+Change name-of-the-folder with your desired folder name.
 
 ## Install mkcert
 To install mkcert on Windows using Chocolatey (a package manager for Windows), you can run the following command in your command line:
