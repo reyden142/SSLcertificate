@@ -1,4 +1,4 @@
-# SSL Certificate for **Create React App**
+# SSL Certificate for **create-react-app**
 
 ## Overview
 An **SSL certificate** (Secure Sockets Layer certificate) is a digital certificate that authenticates the identity of a website and enables an encrypted connection between the web server and the browser. It secures data transmitted over the internet, such as login credentials, credit card information, and other sensitive data.
