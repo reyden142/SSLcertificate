@@ -1,5 +1,10 @@
 # SSL Certificate
-How to create an SSL certificate for create-react-app 
+How to create an SSL certificate for **create-react-app**
+
+## Overview
+An SSL certificate (Secure Sockets Layer certificate) is a digital certificate that authenticates the identity of a website and enables an encrypted connection between a web server and a browser. SSL is used to secure data that is transmitted over the internet, such as login credentials, credit card details, or any other sensitive information.
+
+When a website has an SSL certificate, its URL starts with **"https://"** instead of "http://", and a padlock symbol is displayed in the browser’s address bar, indicating that the connection is secure.
 
 ## React Environment
 ```bash
